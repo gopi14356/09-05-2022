@@ -1,0 +1,5 @@
+s={1:'colleage location:kakinada',2:'mokina gopi',3:'mpcs',4:'third section'}
+s.pop(2)
+s.pop(3)
+s.pop(4)
+print(s)
